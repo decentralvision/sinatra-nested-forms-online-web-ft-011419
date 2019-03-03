@@ -9,6 +9,7 @@ module FormsLab
     end
 
     post '/pirate' do
+      erb :show
     end
 
   end
